@@ -13,6 +13,6 @@ const DropZone = ({ elements, onRemove }) => {
       ))}
     </div>
   );
-};
+}
 
 export default DropZone;
