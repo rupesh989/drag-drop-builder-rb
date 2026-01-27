@@ -16,7 +16,7 @@ body {
 .element-form {
   width: 25%; 
   padding: 20px;
-  border: 1px solid #03021f; 
+  border: 10px solid #03021f; 
   background-color: #fff;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); 
   border-radius: 80px;
