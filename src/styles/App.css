@@ -40,7 +40,7 @@ body {
 .draggable-element {
   padding: 15px; 
   margin: 15px 0; 
-  border: 2px solid #03021f; 
+  border: 20px solid #03021f; 
   background-color: #e9e4ff; 
   border-radius: 8px; 
   cursor: grab;
