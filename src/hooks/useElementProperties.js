@@ -2,8 +2,8 @@ import { useState } from 'react';
 
 const useElementProperties = () => {
   const [properties, setProperties] = useState({
-    width: 400,
-    height: 200,
+    width: 40,
+    height: 20,
   });
 
   const updateProperties = (newProperties) => {
