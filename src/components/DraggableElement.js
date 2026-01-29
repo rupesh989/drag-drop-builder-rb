@@ -33,8 +33,8 @@ const DraggableElement = ({ type, onRemove }) => {
         onMouseDown={handleResize}
         style={{
           cursor: 'nwse-resize',
-          height: '110px',
-          width: '110px',
+          height: '120px',
+          width: '120px',
           backgroundColor: '#6c63ff',
           borderRadius: '500%',
           position: 'absolute',
