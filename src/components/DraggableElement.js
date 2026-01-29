@@ -36,7 +36,7 @@ const DraggableElement = ({ type, onRemove }) => {
           height: '120px',
           width: '120px',
           backgroundColor: '#6c63ff',
-          borderRadius: '500%',
+          borderRadius: '400%',
           position: 'absolute',
           right: 0,
           bottom: 0,
