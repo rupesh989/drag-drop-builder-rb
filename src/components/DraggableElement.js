@@ -22,7 +22,7 @@ const DraggableElement = ({ type, onRemove }) => {
       style={{
         width: size.width,
         height: type === 'text' ? 'auto' : size.height,
-        padding: '10px',
+        padding: '20px',
       }}
       draggable
       onDragStart={(e) => e.dataTransfer.setData('text/plain', type)}
